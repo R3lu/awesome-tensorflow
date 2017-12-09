@@ -195,7 +195,7 @@ More info [here](http://tensorflow.org).
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) – by Aurélien Geron, former lead of the YouTube video classification team. Covers ML fundamentals, training and deploying deep nets across multiple servers and GPUs using TensorFlow, the latest CNN, RNN and Autoencoder architectures, and Reinforcement Learning (Deep Q).
 * [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow) – by Rodolfo Bonnin. This book covers various projects in TensorFlow that expose what can be done with TensorFlow in different scenarios. The book provides projects on training models, machine learning, deep learning, and working with various neural networks. Each project is an engaging and insightful exercise that will teach you how to use TensorFlow and show you how layers of data can be explored by working with Tensors.
 
-
+* [Predictive Analytics with Tensorflow]https://www.packtpub.com/big-data-and-business-intelligence/predictive-analytics-tensorflow) – by Md. Rezaul Karim, Research Scientist at Fraunhofer FIT, Germany. This book helps you to accomplish the power of data in your business by building advanced predictive modelling applications with Tensorflow.
 
 <a name="contributions" />
 
